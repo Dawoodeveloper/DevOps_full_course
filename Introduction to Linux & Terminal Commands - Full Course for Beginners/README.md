@@ -11,3 +11,14 @@ What are the types of environment variables?
 There are two types of environment variables: user environment variables (set for each user) and system environment variables (set for everyone). By default, a child process inherits the environment variables of its parent process.
   What are commands??
   In computing, a command is a directive to a computer program to perform a specific task.its just executable file.
+
+
+
+
+What is the alias command used for?
+An alias lets you create a shortcut name for a command, file name, or any shell text. By using aliases, you save a lot of time when doing tasks you do frequently. You can create a command alias.
+
+
+What is alias in Linux example?
+Image result for alias command in linux
+In Linux, an alias is a shortcut that references a command. An alias replaces a string that invokes a command in the Linux shell with another user-defined string. Aliases are mostly used to replace long commands, improving efficiency and avoiding potential spelling errors
