@@ -22,3 +22,8 @@ An alias lets you create a shortcut name for a command, file name, or any shell 
 What is alias in Linux example?
 Image result for alias command in linux
 In Linux, an alias is a shortcut that references a command. An alias replaces a string that invokes a command in the Linux shell with another user-defined string. Aliases are mostly used to replace long commands, improving efficiency and avoiding potential spelling errors
+
+
+
+
+. represents the directory you are in and .. represents the parent directory.
