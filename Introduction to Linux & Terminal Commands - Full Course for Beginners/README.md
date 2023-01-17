@@ -27,3 +27,24 @@ In Linux, an alias is a shortcut that references a command. An alias replaces a 
 
 
 . represents the directory you are in and .. represents the parent directory.
+
+
+
+man
+head 
+df
+du
+diff
+sudo chmod
+diff ; output not matched
+head
+tail
+locate "*.txt" 
+find
+whereis
+find . -type d // mean directory
+find . -type f
+find . type f -name "hello.txt"
+find . type f -name "hello*"
+find . type f -name "*.txt" case sensitive
+find . type f -iname "hello.txt" not case sensitive
